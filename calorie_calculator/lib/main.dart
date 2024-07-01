@@ -4,7 +4,7 @@ import 'package:calorie_calculator/screens/input.dart';
 
 void main() {
   runApp(MaterialApp(
-    title: 'Grade Calculator',
+    title: 'Calorie Calculator',
     debugShowCheckedModeBanner: false,    
     theme: FlexThemeData.light(scheme: FlexScheme.hippieBlue),
     darkTheme: FlexThemeData.dark(scheme: FlexScheme.hippieBlue, darkIsTrueBlack: true),
